@@ -4,7 +4,7 @@ This repository is designed for QA training, focusing on automating tests using 
 
 ## Setup
 
-1. Install dependencies:
+Install dependencies:
    ```bash
    npm install
 
