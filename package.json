@@ -1,13 +1,25 @@
-#### 2. `package.json`
-```json
 {
   "name": "cooking-class-qa-training",
   "version": "1.0.0",
+  "description": "A QA training project using Playwright and TypeScript to verify cooking class location accuracy.",
   "scripts": {
     "test": "playwright test"
   },
   "devDependencies": {
     "@playwright/test": "^1.0.0",
     "typescript": "^4.0.0"
-  }
+  },
+  "keywords": [
+    "QA",
+    "testing",
+    "Playwright",
+    "TypeScript",
+    "automation",
+    "geolocation",
+    "location accuracy",
+    "cooking class",
+    "travel experience"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
 }
