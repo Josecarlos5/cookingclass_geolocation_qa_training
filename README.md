@@ -13,7 +13,7 @@ npx playwright test
 Automate tests with GitHub Actions (configured in .github/workflows/playwright-tests.yml)
    
 
-### Structure
+## Structure
 
 Automation: .github/workflows/playwright-tests.yml sets up continuous integration for automatic test execution.
 
